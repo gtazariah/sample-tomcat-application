@@ -1,6 +1,6 @@
 # Sample war application using maven 
 
-1. Navigate to the directory and run the below maven command to build the war file asa
+1. Navigate to the directory and run the below maven command to build the war file asaa
 ```
 $mvn clean verify
 
